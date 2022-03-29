@@ -3,6 +3,9 @@
 packages/*/build/
 packages/*/examples/*/build/
 
+# Dependency directory
+node_modules
+
 # Editor
 .DS_Store
 .vscode
